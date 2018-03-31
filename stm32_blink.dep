@@ -32,7 +32,7 @@
       <file>$PROJ_DIR$\system\stm32f10x_it.c</file>
       <file>$PROJ_DIR$\perlib\src\misc.c</file>
       <file>$PROJ_DIR$\main.c</file>
-      <file>$PROJ_DIR$\statup\startup_stm32f10x_md.s</file>
+      <file>$PROJ_DIR$\startup\startup_stm32f10x_md.s</file>
       <file>$PROJ_DIR$\system\stm32f10x_it.h</file>
       <file>$PROJ_DIR$\Debug\Obj\stm32f10x_gpio.o</file>
       <file>$PROJ_DIR$\Debug\Obj\stm32f10x_gpio.pbi</file>
@@ -145,7 +145,7 @@
       </inputs>
     </file>
     <file>
-      <name>$PROJ_DIR$\statup\startup_stm32f10x_md.s</name>
+      <name>$PROJ_DIR$\startup\startup_stm32f10x_md.s</name>
       <outputs>
         <tool>
           <name>AARM</name>

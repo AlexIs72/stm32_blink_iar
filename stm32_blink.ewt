@@ -2113,7 +2113,7 @@
     <name>$PROJ_DIR$\perlib\inc\misc.h</name>
   </file>
   <file>
-    <name>$PROJ_DIR$\statup\startup_stm32f10x_md.s</name>
+    <name>$PROJ_DIR$\startup\startup_stm32f10x_md.s</name>
   </file>
   <file>
     <name>$PROJ_DIR$\system\stm32f10x.h</name>
